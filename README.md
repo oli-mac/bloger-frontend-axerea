@@ -1,2 +1,2 @@
-# bloger-frontend-axerea
-blooger website using css html javascript and saas
+# Blooger_Website
+This is the complete blooger website create using html and css
